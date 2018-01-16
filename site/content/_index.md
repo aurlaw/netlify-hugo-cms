@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Yeah!
+subtitle: Yeah yeah
 image: /img/fedex_all_orange.jpg
 blurb:
   heading: Why Kaldi?
